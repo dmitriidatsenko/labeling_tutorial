@@ -15,11 +15,19 @@ You have the opportunity to be a teacher for our artificial intelligence, that t
     Folder: **"D:\Machine Learning\projects\Dmitrii\roofs_segmentation\data\datasets\tiles\Google\psd"**
  4. Open the imagery in any application either Photoshop or Illustrator.
  #### Photoshop guide:
-  1. Create separate transparent layer:
-  2. Choose **pen**:
+  1. Create separate transparent layer using combination Ctrl + Shift + N, that layer should be active all the time you fill contours with a mask:
+  
+  2. Choose **pen** tool:
   3. Start with one of the existing roof on the imagery:
+     hints:
+       you can zoom in and out with the left Alt key pressed and mouse scroll.
+       to change the position of a point on a figure press left Ctrl
+ 
   4. Fulfill a figure (roof contour) with white color:
-  5. Repeat for any existing roof on the imagery, please label carefully, more accurate data means more accurate segmentation in future, and please do not skip any roof, even on the edge of the screen.
+     Right click on the image > select Fill Path > select Contents: White.
+     
+     Right click on the image > Delete Path.
+  5. Repeat for any existing roof on the imagery, please label carefully, more accurate data means more accurate segmentation in the future, and please do not skip any roof, even on the edge of the screen.
  #### Illustrator guide:
   TODO
  
