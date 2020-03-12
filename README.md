@@ -30,6 +30,15 @@ You have the opportunity to be a teacher for our artificial intelligence, that t
   5. Repeat for any existing roof on the imagery, please label carefully, more accurate data means more accurate segmentation in the future, and please do not skip any roof, even on the edge of the screen.
  #### Illustrator guide:
   TODO
+  
+  
+Feel free to contact me if you have any questions:
+ 1. Email: **dmitriidatsenko@gmail.com**
+ 2. Skype: **winddim**
+ 
+  
+  
+  
  
  
 
