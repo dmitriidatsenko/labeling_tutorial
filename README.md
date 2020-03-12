@@ -34,6 +34,10 @@ You have the opportunity to be a teacher for our artificial intelligence, that t
      <img src="https://raw.githubusercontent.com/dmitriidatsenko/labeling_tutorial/master/src/ready_mask.PNG" width="200"/>
 
   5. Repeat for any existing roof on the imagery, please label carefully, more accurate data means more accurate segmentation in the future, and please do not skip any roof, even on the edge of the screen.
+  6. Save labelled file as .psd format with the same name as input file to 
+      Folder: **"D:\Machine Learning\projects\Dmitrii\roofs_segmentation\data\datasets\tiles\Google\psd"**
+ 
+  
  #### Illustrator guide:
   TODO
   
