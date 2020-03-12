@@ -26,7 +26,7 @@ You have the opportunity to be a teacher for our artificial intelligence, that t
      you can zoom in and out with the left Alt key pressed and mouse scroll;</br>
      to change the position of a point on a figure press left Ctrl.
  
-  4. Fulfill a figure (roof contour) with white color:
+  4. Fulfill a figure (roof contour) with white color:</br>
      Right click on the image > select Fill Path > select Contents: White.</br>
      <img src="https://raw.githubusercontent.com/dmitriidatsenko/labeling_tutorial/master/src/filled_contour.PNG" width="200"/>
 
