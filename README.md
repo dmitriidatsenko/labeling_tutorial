@@ -1,6 +1,6 @@
 # Labeling tutorial.
 
-You have the opportunity to be a teacher for our artificial intelligence, that tries to approximate roof contours.
+You have the opportunity to be a teacher for our artificial intelligence model, that tries to approximate roof contours.
 
 ### Requirements 
 
