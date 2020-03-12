@@ -23,8 +23,9 @@ You have the opportunity to be a teacher for our artificial intelligence, that t
   3. Start with one of the existing roof on the imagery: </br>
     <img src="https://raw.githubusercontent.com/dmitriidatsenko/labeling_tutorial/master/src/contour.PNG" width="200"/></br>
      **hints:** </br>
-     you can zoom in and out with the left Alt key pressed and mouse scroll;</br>
-     to change the position of a point on a figure press left Ctrl.
+     you can zoom in and out with Alt key pressed and mouse scroll;</br>
+     to delete a point just click left click on mouse;</br>
+     to change the position of a point on a figure leave pressed Ctrl.
  
   4. Fulfill a figure (roof contour) with white color:</br>
      Right click on the image > select Fill Path > select Contents: White.</br>
